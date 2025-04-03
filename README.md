@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu me Chamo Leonardo Brito 👋
 
-<!--
-**leoBrito13/leoBrito13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor [Frontend | Backend | Fullstack]  
+📍 Localização: [Rio de Janeiro/Brasil]  
+🚀 Apaixonado por tecnologia e desenvolvimento web
 
-Here are some ideas to get you started:
+🚀 Tecnologias que uso:
+- 🌐 **Front-end:** HTML5, CSS3
+- 🎨 **Estilização:** CSS3, TailwindCSS, Bootstrap
+- 🖥️ **Linguagens:** JavaScript, PHP, Python
+- 🔧 **Frameworks:** Laravel, React, Django
+- 🌐 **CMS:** Wordpress
+- 💾 **Banco de Dados:** MySQL 
+- 🌎 **Outros:** Git, APIs REST, FastApi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me encontrar:
+📧 Email: [leobrito.lnb@gmail.com]  
+💼 LinkedIn: [https://www.linkedin.com/in/leonardonunesbrito/]
+
+---
